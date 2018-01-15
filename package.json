@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-rest-api-sample",
+  "version": "0.1.0",
+  "description": "nodejs-rest-api-sample",
+  "author": "Romuald Tuffreau https://github.com/romwaldtff, Imad El Hitti https://github.com/imadhy",
+  "license": "LGPL-3.0",
+  "dependencies": {
+    "body-parser": "*",
+    "ejs": "*",
+    "express": "*",
+    "sqlite": "*",
+    "bluebird": "*"
+  }
+}
